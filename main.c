@@ -10,4 +10,5 @@
 void main()
 {
 /* comment in Eclipse */
+	/* comment 2 in eclipse */
 }
